@@ -5,4 +5,4 @@
 
 <br>
 <h3>Excel file</h3>
-<img src="/images/database.PNG">
+<img src="/images/database.CSV">
